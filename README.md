@@ -1,0 +1,1 @@
+A weather app is an online web application tool that provides the user with current weather conditions along with temperature and other climatic conditions. We will use the API to fetch the weather data from the server and display it to the user.
